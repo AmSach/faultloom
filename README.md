@@ -32,7 +32,7 @@ Most event-driven tests only exercise the happy path. Production failures often 
 
 ## Blog draft
 
-See `docs/blog-post.md` for the technical write-up.
+See `blog-post.md` for the technical write-up.
 
 ## Licence
 
